@@ -5,7 +5,8 @@
     "name": "Example Partner 1",
     "description": "Partner 1 offers the best services in gaming.",
     "labels": ["Gaming", "Tech Tips"],
-    "url": "https://example1.com"
+    "url": "https://example1.com",
+    "icon": "🔥"
   },
   {
     "image": "https://example.com/image2.jpg",
@@ -13,7 +14,8 @@
     "name": "Example Partner 2",
     "description": "Partner 2 specializes in mobile tricks and tips.",
     "labels": ["Mobile Tricks", "Tech Tips"],
-    "url": "https://example2.com"
+    "url": "https://example2.com",
+    "icon": "🔥"
   },
   {
     "image": "https://example.com/image3.jpg",
@@ -21,6 +23,7 @@
     "name": "Example Partner 3",
     "description": "Partner 3 is known for the latest gaming news.",
     "labels": ["Gaming", "News"],
-    "url": "https://example3.com"
+    "url": "https://example3.com",
+    "icon": "🔥"
   }
 ]
